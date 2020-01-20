@@ -1,6 +1,8 @@
 # Omnistack10-backend DevRadar
 Semana Omnistack 10.0 da Rockatseat
 
+![DevRadar](https://user-images.githubusercontent.com/50602816/72694444-c09aa880-3b13-11ea-975f-d7256e6f80e7.gif)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -12,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevRadar é um projeto que visa conectar Dev que trabalham com as mesmas tecnologias e estão em localidades proximas.
+O DevRadar é um projeto que visa conectar Devs que trabalham com as mesmas tecnologias e estão em localidades proximas.
 
 ## Como testar o projeto?
 
